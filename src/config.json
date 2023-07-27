@@ -1,0 +1,24 @@
+{
+    "settingsReloadIntervalMinutes": 1,
+    "fullscreen": true,
+    "autoStart": false,
+    "lazyLoadTabs": false,
+    "closeExistingTabs": true,
+    "websites": [
+      {
+        "url": "https://intelycare.domo.com/page/1083256480",
+        "duration": 10,
+        "tabReloadIntervalSeconds": 15
+      },
+      {
+        "url": "https://intelycare.domo.com/page/466527340",
+        "duration": 10,
+        "tabReloadIntervalSeconds": 15
+      },
+      {
+        "url": "https://intelycare.domo.com/page/172594068",
+        "duration": 10,
+        "tabReloadIntervalSeconds": 15
+      }
+    ]
+  }
