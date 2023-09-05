@@ -7,18 +7,18 @@
     "websites": [
       {
         "url": "https://intelycare.domo.com/page/1083256480",
-        "duration": 30,
-        "tabReloadIntervalSeconds": 3600
+        "duration": 15,
+        "tabReloadIntervalSeconds": 300
       },
       {
         "url": "https://intelycare.domo.com/page/466527340",
-        "duration": 30,
-        "tabReloadIntervalSeconds": 3600
+        "duration": 15,
+        "tabReloadIntervalSeconds": 300
       },
       {
         "url": "https://intelycare.domo.com/page/172594068",
-        "duration": 30,
-        "tabReloadIntervalSeconds": 3600
+        "duration": 15,
+        "tabReloadIntervalSeconds": 300
       }
     ]
   }
