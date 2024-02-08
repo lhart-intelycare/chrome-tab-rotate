@@ -4,12 +4,7 @@
     "autoStart": false,
     "lazyLoadTabs": false,
     "closeExistingTabs": true,
-    "websites": [
-      {
-        "url": "https://intelycare.domo.com/page/1083256480",
-        "duration": 15,
-        "tabReloadIntervalSeconds": 300
-      },
+    "websites": [     
       {
         "url": "https://intelycare.domo.com/page/466527340",
         "duration": 15,
