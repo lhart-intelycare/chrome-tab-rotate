@@ -14,11 +14,6 @@
         "url": "https://intelycare.domo.com/page/172594068",
         "duration": 15,
         "tabReloadIntervalSeconds": 300
-      },
-      {
-        "url": "https://windmill-dev.intelycare.com/apps/get/f/Release/Sprint/latest_pipeline_status",
-        "duration": 15,
-        "tabReloadIntervalSeconds": 60
-      }        
+      }   
     ]
   }
