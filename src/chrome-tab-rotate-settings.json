@@ -7,18 +7,23 @@
     "websites": [     
       {
         "url": "https://intelycare.domo.com/page/466527340",
-        "duration": 15,
+        "duration": 30,
         "tabReloadIntervalSeconds": 300
       },
       {
         "url": "https://intelycare.domo.com/page/172594068",
-        "duration": 15,
+        "duration": 30,
         "tabReloadIntervalSeconds": 300
       },
       {
         "url": "https://windmill-dev.intelycare.com/apps/get/f/Release/Reporting/the_morning_monitor",
-        "duration": 15,
+        "duration": 30,
         "tabReloadIntervalSeconds": 300  
-      }
+      },
+      {
+        "url": "https://buildstatus.intelycare.com/#/workflow-jobs",
+        "duration": 30,
+        "tabReloadIntervalSeconds": 300  
+      },  
     ]
   }
