@@ -19,6 +19,11 @@
         "url": "https://windmill-dev.intelycare.com/apps/get/f/Release/Reporting/the_morning_monitor",
         "duration": 30,
         "tabReloadIntervalSeconds": 300  
+      },
+      {
+        "url": "https://windmill-dev.intelycare.com/apps/get/f/Release/apps/master_build_status",
+        "duration": 30,
+        "tabReloadIntervalSeconds": 300  
       }
     ]
   }
