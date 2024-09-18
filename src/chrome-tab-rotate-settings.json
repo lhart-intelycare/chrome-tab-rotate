@@ -29,6 +29,21 @@
         "url": "https://app.asana.com/0/portfolio/1204258817444761/list",
         "duration": 30,
         "tabReloadIntervalSeconds": 300  
-      }
+      },
+      {
+        "url": " https://intelycare.domo.com/page/718644152",
+        "duration": 30,
+        "tabReloadIntervalSeconds": 300  
+      },
+      {
+        "url": "https://intelycare.domo.com/page/566481655",
+        "duration": 30,
+        "tabReloadIntervalSeconds": 300  
+      },
+      {
+        "url": "https://intelycare.lightning.force.com/lightning/r/Dashboard/01ZUN000001D8Qb2AK/view",
+        "duration": 30,
+        "tabReloadIntervalSeconds": 300  
+      }       
     ]
   }
