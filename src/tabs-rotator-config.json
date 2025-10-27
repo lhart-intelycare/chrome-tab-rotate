@@ -30,6 +30,11 @@
       "delaySeconds": 30,
       "reloadIntervalSeconds": 60,
       "url": "https://app.asana.com/0/portfolio/1209487619322340/1209488679603738"
-    }
+    },
+    {
+      "delaySeconds": 30,
+      "reloadIntervalSeconds": 60,
+      "url": "https://monitoring.production.projectlanyard.com:3000/goto/uAihzERvR?orgId=1"
+    }    
   ]
 }
